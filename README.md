@@ -27,4 +27,4 @@ pip install PyAudio
 https://pypi.org/project/PyAudio/
 
 
-HAVE FUN WHILE CODİNG & LEARNİNG
+HAVE FUN WHILE CODING & LEARNING
